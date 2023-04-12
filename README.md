@@ -2,4 +2,4 @@
 
 This project is for the company top4sport which sells sports equipment across the EU. They operate out of the Czech Republic and sell equipment in more than a dozen countries across the EU. They would like to predict how many different items will be sold in the future for different periods of time. 
 
-You can grab the data used for this project from [here](https://drive.google.com/file/d/1RULXqPM8a8CLH-lXDSXDUIhXDOHL18ye/view) and once downloaded please store these files within the 'data' folder in the repositiory!
+You can grab the data used for this project from [here](https://drive.google.com/file/d/1RULXqPM8a8CLH-lXDSXDUIhXDOHL18ye/view) and once downloaded please store these files within the `'data'` folder in the repositiory!
