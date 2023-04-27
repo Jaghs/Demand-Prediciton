@@ -42,8 +42,9 @@ In this project, I took several steps to analyze historical data and forecast fu
 ![model_forecast](./images/model_forecast.png)
 
 Based from this model forecast:
-- In one year, the sales revenue for the country of Czech Republic is predicted to increase over 73.57%. When looking at all European countries the sales revenue is projected to increase by over 50.04%. 
-  - This will improve the cash flow for Top4Sports and provide my client with additional flexibility in managing day-to-day operations and pursuing growth opportunities.
-- In one year the sales for running shoes in the Czech Republic will increase by 181.11% and for all the countries together the sales will increase by 80.46%
-  - These results are highly insightful since they will help Top4Sport to manage inventory levels and prepare for demand increase
+- In one year, the sales revenue for the country of Czech Republic is predicted to increase over 73.57%. When looking at all European countries the sales revenue is projected to increase by over 50.04%. This will improve the cash flow for Top4Sports and provide my client with additional flexibility in managing day-to-day operations and pursuing growth opportunities.
 
+- In one year the sales for running shoes in the Czech Republic will increase by 181.11% and for all the countries together the sales will increase by 80.46%. These results are highly insightful since they will help Top4Sport to manage inventory levels and prepare for demand increase
+
+
+In conclusion, these results will help my client in making informed decisions related to accounting, financial planning, investment, and taxation.
