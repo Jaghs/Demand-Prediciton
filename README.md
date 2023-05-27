@@ -11,17 +11,17 @@ This project is organized into data, images, and src folders:
  - [`'images'`](https://github.com/Jaghs/demand-prediction-project/tree/main/images): folder contains visualization created within the jupyter notebooks from EDA and from time series model outputs
 - [`'src'`](https://github.com/Jaghs/demand-prediction-project/tree/main/src): folder contains 6 jupyter notebooks that were used to complete this project aswell a `'modules'` folder that contains python functions. The notebooks should be opened in this order:
 
-  1. [`'eda_and_cleaning'`](https://github.com/Jaghs/demand-prediction-project/blob/main/src/eda_and_cleaning.ipynb): Exploratory Data Analysis and data cleaning to prepare the dataset for modeling.
+  1. [`'eda_and_cleaning'`](https://github.com/Jaghs/demand-prediction-project/blob/main/src/eda_and_cleaning.ipynb): exploratory Data Analysis and data cleaning to prepare the dataset for modeling.
 
-  2. [`'stationarity_and_timeseries_decomposition'`](https://github.com/Jaghs/demand-prediction-project/blob/main/src/stationarity_and_timeseries_decomposition.ipynb): Analyzing the stationarity of the time series data and decomposing the time series into trend, seasonality, and residuals.
+  2. [`'stationarity_and_timeseries_decomposition'`](https://github.com/Jaghs/demand-prediction-project/blob/main/src/stationarity_and_timeseries_decomposition.ipynb): analyzing the stationarity of the time series data and decomposing the time series into trend, seasonality, and residuals.
 
-  3. [`'LSTM_model_daily'`](https://github.com/Jaghs/demand-prediction-project/blob/main/src/LSTM_model_daily.ipynb): Building and training a Long Short-Term Memory (LSTM) model to forecast sales on a daily basis 
+  3. [`'LSTM_model_daily'`](https://github.com/Jaghs/demand-prediction-project/blob/main/src/LSTM_model_daily.ipynb): building and training a Long Short-Term Memory (LSTM) model to forecast sales on a daily basis 
 
-  4. [`'prophet_models'`](https://github.com/Jaghs/demand-prediction-project/blob/main/src/prophet_models.ipynb): Building and training Prophet models, to predict sales for the entire dataset 
+  4. [`'prophet_models'`](https://github.com/Jaghs/demand-prediction-project/blob/main/src/prophet_models.ipynb): building and training Prophet models, to predict sales for the entire dataset 
 
-  5. [`'prophet_country_model'`](https://github.com/Jaghs/demand-prediction-project/blob/main/src/prophet_country_model.ipynb): Building and training Prophet models to predict sales for each individual country 
+  5. [`'prophet_country_model'`](https://github.com/Jaghs/demand-prediction-project/blob/main/src/prophet_country_model.ipynb): building and training Prophet models to predict sales for each individual country 
 
-  6. [`'prophet_products_model'`](https://github.com/Jaghs/demand-prediction-project/blob/main/src/prophet_products_model.ipynb): Building and training Prophet models to predict sales for each individual product.
+  6. [`'prophet_products_model'`](https://github.com/Jaghs/demand-prediction-project/blob/main/src/prophet_products_model.ipynb): building and training Prophet models to predict sales for each individual product.
 
 ## Project Flow 🔄
 
