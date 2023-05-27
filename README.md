@@ -4,7 +4,7 @@ This project is for the company Top4Sport which sells sports equipment across th
 
 You can grab the data used for this project from [here](https://drive.google.com/drive/folders/1-OFljaA6cE8F2WI6HCcPD-8g5M72hywI?usp=sharing) and once downloaded please store these files within the `'data'` folder in the repositiory!
 
-## Notebook Instructions
+## Notebook Instructions 📄
 This project is organized into data, images, and src folders:
 
  - [`'data'`](https://github.com/Jaghs/demand-prediction-project/tree/main/data): folder is there to store the csv files that will be downloaded from the google drive link above
@@ -23,13 +23,13 @@ This project is organized into data, images, and src folders:
 
   6. [`'prophet_products_model.ipynb'`](https://github.com/Jaghs/demand-prediction-project/blob/main/src/prophet_products_model.ipynb): Building and training Prophet models to predict sales for each individual product.
 
-## Project Flow
+## Project Flow 🔄
 
 ![project_flow](./images/project_flow.png)
 
 In this project, I took several steps to analyze historical data and forecast future sales revenue for a client's business. Firstly, I loaded the historical data into a Jupyter notebook and conducted exploratory data analysis (EDA) by examining the dataset's shape, column data types, and missing values. For instance, I discovered that the payment column had many missing values on one specific day, which led me to infer that the payment systems were down that day. As a result, I removed these columns from the dataset. Secondly, I explored multiple time series models and ultimately chose the prophet model due to its superior results. Next, I used the prophet time series model to predict future sales revenue and generate insightful visualizations, which I analyzed in more detail later. Lastly, I compared the forecasted results with previous historical data to gain a better understanding of the client's business trajectory. Overall, these steps allowed me to generate valuable insights and provide actionable recommendations for my client.
 
-## Findings
+## Findings 🔎
 
 ![orders_by_manufacturers](./images/orders_by_manufacturers.png)
 
@@ -37,7 +37,7 @@ In this project, I took several steps to analyze historical data and forecast fu
 
 ![sales_by_country](./images/sales_by_country.png)
 
-## Results
+## Results 📊
 
 ![model_forecast](./images/model_forecast.png)
 
